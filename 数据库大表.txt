@@ -1,0 +1,77 @@
+ T_BAS_OPERATELOGBK"              1.793 GB 4696064 rows
+"T20211025091552A"                12.33 GB   21987 rows
+"T_HS_INIVBALANCEENTRY_H"         50.69 MB 1434264 row
+
+. . exported "CLOUD99"."T_FA_DEPRADJUSTENTRY_L"          17.61 MB  219433 rows
+. . exported "CLOUD99"."T_GL_BALANCE_INIBAK"             16.44 MB  241060 rows
+. . exported "CLOUD99"."T_AP_PAYBILL"                    16.01 MB   46025 rows
+. . exported "CLOUD99"."T_AR_RECEIVABLEENTRY"            16.69 MB   40023 rows
+. . exported "CLOUD99"."T_BAS_VOUCHERLOG"                16.07 MB  117905 rows
+. . exported "CLOUD99"."T_HS_BALANCEENTRY_H"             16.60 MB  498069 rows
+. . exported "CLOUD99"."T_IV_SALESIC"                    16.25 MB   32826 rows
+. . exported "CLOUD99"."T_BAS_VCHTEMPLATEENTRY"          8.286 MB    4225 rows
+. . exported "CLOUD99"."T_WF_PROCDEFLOG"                 9.981 MB     381 rows
+. . exported "CLOUD99"."T_WB_BANKPAYMENTENTRY"           15.47 MB   42534 rows
+. . exported "CLOUD99"."T_BAS_USERLOGINRECORD"           15.25 MB  186415 rows
+. . exported "CLOUD99"."T_BAS_USERONLINEDETAIL"          14.55 MB  160979 rows
+. . exported "CLOUD99"."T_ER_EXPENSEREIMB"               15.17 MB   38067 rows
+. . exported "CLOUD99"."T_STK_INSTOCKENTRY"              14.62 MB   35715 rows
+. . exported "CLOUD99"."T_WF_DEFVERSION"                 4.033 MB     149 rows
+. . exported "CLOUD99"."T20211111014445A"                13.12 MB      38 rows
+. . exported "CLOUD99"."T_CN_BANKACNTSTATEENTRY"         13.75 MB  127211 rows
+. . exported "CLOUD99"."T_HS_PURHOOKLOGENTRY"            13.32 MB   78778 rows
+. . exported "CLOUD99"."T_CR_ITEMINRPT"                  11.55 MB  237484 rows
+. . exported "CLOUD99"."T_HS_ACCTGPROCESS_H"             12.99 MB  422624 rows
+. . exported "CLOUD99"."T_SAL_DELIVERYNOTICEENTRY"       12.79 MB   26319 rows
+. . exported "CLOUD99"."T_BAS_USERPARAMETER"             6.826 MB    7274 rows
+. . exported "CLOUD99"."T_QING_PUB_DSB_REF_CONT"         6.903 MB     715 rows
+. . exported "CLOUD99"."T_AP_PAYBILLSRCENTRY"            11.21 MB   47601 rows
+. . exported "CLOUD99"."T_AR_RECEIVABLE"                 12.07 MB   35803 rows
+. . exported "CLOUD99"."T_CN_JOURNALENTRY"               12.52 MB  124256 rows
+. . exported "CLOUD99"."T_ER_EXPENSEREIMBENTRY"          11.65 MB   52498 rows
+. . exported "CLOUD99"."T_GL_BALANCE_142671"             12.13 MB  221136 rows
+. . exported "CLOUD99"."T_SAL_DELIVERYNOTICE"            11.95 MB   24364 rows
+. . exported "CLOUD99"."T20211220031540E"                10.85 MB   96412 rows
+. . exported "CLOUD99"."V_QTCKD_BB"                      11.51 MB   34163 rows
+. . exported "CLOUD99"."T_KDS_RPT"                       8.677 MB    2801 rows
+. . exported "CLOUD99"."T_CR_DYNAMICITEMDATA"            9.803 MB  378969 rows
+. . exported "CLOUD99"."T_FA_DEPRADJUSTDETAIL"           10.73 MB  241641 rows
+. . exported "CLOUD99"."T_SAL_ORDERENTRY"                9.992 MB   26103 rows
+. . exported "CLOUD99"."T_SAL_OUTSTOCKENTRY"             11.35 MB   33056 rows
+. . exported "CLOUD99"."T_UN_SCANRSHEAD"                 8.865 MB   35836 rows
+. . exported "CLOUD99"."T_WF_APPROVALASSIGN_L"           10.52 MB  210641 rows
+. . exported "CLOUD99"."T_WF_ASSIGN"                     10.59 MB   79599 rows
+. . exported "CLOUD99"."T_QING_THEME_MODEL"              5.251 MB     327 rows
+. . exported "CLOUD99"."T_AP_OTHERPAYABLE"               9.789 MB   38105 rows
+. . exported "CLOUD99"."T_AP_PAYBILLENTRY_B"             9.460 MB   49106 rows
+. . exported "CLOUD99"."T_BAS_WARNUSERMESSAGE"           9.131 MB  215229 rows
+. . exported "CLOUD99"."T_SAL_ORDER"                     9.500 MB   24837 rows
+. . exported "CLOUD99"."T_SAL_OUTSTOCK"                  10.11 MB   24311 rows
+. . exported "CLOUD99"."T_STK_MISDELIVERYENTRY"          10.47 MB   49239 rows
+. . exported "CLOUD99"."T_STK_STOCKCONVERTENTRY"         7.274 MB   35836 rows
+. . exported "CLOUD99"."T_WF_ACTINST_L"                  9.656 MB  195495 rows
+. . exported "CLOUD99"."T_WF_APPROVALITEM_L"             9.822 MB  210641 rows
+. . exported "CLOUD99"."CBFT_GJ_ALLKYXM"                 8.992 MB   25165 rows
+. . exported "CLOUD99"."T_AR_RECEIVABLEENTRY_20210729"   8.512 MB   21189 rows
+. . exported "CLOUD99"."T_AR_RECEIVEBILL"                7.502 MB   25308 rows
+. . exported "CLOUD99"."T_BGP_DRUGTRANENTRY"             7.402 MB   23701 rows
+. . exported "CLOUD99"."T_CRE_TRACK"                     8.447 MB   41340 rows
+. . exported "CLOUD99"."T_IV_SALESICENTRY"               9.323 MB   34312 rows
+. . exported "CLOUD99"."CBFT_GJ_ALL"                     8.004 MB   23059 rows
+. . exported "CLOUD99"."T_AP_PAYABLEENTRY_O"             7.363 MB  102640 rows
+. . exported "CLOUD99"."T_AP_PAYABLE_LK"                 7.858 MB   70002 rows
+. . exported "CLOUD99"."T_BAS_CLIENTTYPESTATISTIC"       6.537 MB  173884 rows
+. . exported "CLOUD99"."T_BAS_HRCLOUDLOG"                7.658 MB   80635 rows
+. . exported "CLOUD99"."T_BAS_WARNEXECUTEDETAIL"         25.32 KB      20 rows
+. . exported "CLOUD99"."T_ENG_WORKCALFULLDATA"           6.803 MB   83107 rows
+. . exported "CLOUD99"."T_HS_INIVBALANCE"                5.898 MB  109917 rows
+
+
+
+
+
+/u01/app/oracle/admin/ERPDB/dpdump/cloud992023_11_11.dmp
+
+
+
+tablespaces=K3CLOUD_D_STANDARD
