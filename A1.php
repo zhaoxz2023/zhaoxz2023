@@ -1,2 +1,3 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.hhh
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.ok
+hell test git reset command
